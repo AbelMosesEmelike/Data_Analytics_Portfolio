@@ -4,7 +4,7 @@ Hi, I'm Abel Moses Emelike - a data Analsyst and BI analyst with expereince in P
 
 ## Skills
 Data Visualization -(Power BI, Excel, MySQL, And Tableau)
-![Image](Technova sales performance Dashboard.png)
+![Image](Technova sales performance Dashboard.png) ![Image](Oil Rig Project.png)
 ![Image](Real estate project.png)
 Data interpretation & insight generation
 Trend analysis & reporting 
