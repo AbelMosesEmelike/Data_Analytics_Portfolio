@@ -14,6 +14,9 @@ Buisness problem-solving
 
 
 ## Project
+AUTOMATED REAL ESTATE SALES DASHBOARD(Excel Project)
+Developed an automated Excel dashboard to support sales and marketing teams with insights on total Leads, units sold, and remaining inventory. The dashboard also analyzed conversion rates, reasons for non-purchase, and gender-based interest, enabling better targeting and improving sales strategies while reducing manaul reporting.
+![Image](Emerald d1.png)
 
 
 ## contact
