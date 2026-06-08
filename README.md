@@ -23,5 +23,12 @@ Build an automated power BI dashboard to track oil rig workforce performance, us
 ![Images](oil rig now bi.png)
 ![Images](oil rig 2 now bi.png)
 
+## Project 3 (Tableau)
+I created a Sales and Marketing Dashboard in Tableau for two organizations to help management understand their business performance more clearly.
+The dashboard used sales and pipeline charts to track customer journeys, sales trends, profits, and marketing results. It helped identify which products and services generated the most profit, where sales opportunities were being lost, and which marketing activities brought in the most customers.
+By using the insights from the dashboard, both organizations were able to improve their sales strategies, make better marketing decisions, increase profitability, and support faster decision-making with real-time data.
+
+
+
 
 ## contact
