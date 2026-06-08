@@ -20,6 +20,7 @@ Developed an automated Excel dashboard to support sales and marketing teams with
 
 ## project 2 (POWER BI)
 Build an automated power BI dashboard to track oil rig workforce performance, using correlation analysis to identify inefficiencies despite high work hours and enable targeted training, benchmarking, and improved operational efficiency
+![Images](oil rig now bi.png)
 
 
 ## contact
