@@ -6,7 +6,8 @@ Hi, I'm Abel Moses Emelike - a data Analsyst and BI analyst with expereince in P
 Data Visualization -(Power BI, Excel, MySQL, And Tableau)
 ![Image](Technova sales performance Dashboard.png) ![Image](Oil Rig Project.png)
 ![Image](Real estate project.png)
-I build data visuals that help management make faster, more informend decisions. [click here](https://www.linkedin.com/in/moses-abel-1154803a6/recent-activity/all/)
+I build data visuals that help management make faster, more informend decisions. [click here](https://www.linkedin.com/in/moses-abel-1154803a6/recent-activity/all/) |
+
 Data interpretation & insight generation
 Trend analysis & reporting 
 Buisness problem-solving
@@ -33,6 +34,6 @@ By using the insights from the dashboard, both organizations were able to improv
 
 
 ## contact
-+2347063595983
-mosesabel3@yahoo.com
++2347063595983 |
+mosesabel3@yahoo.com |
 mosesabel3@gmail.com
